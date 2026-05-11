@@ -1,4 +1,4 @@
-# 🐧 Linux & SOC Analyst Portfolio
+# 🐧 Linux & SOC
 
 This repository demonstrates practical Linux skills applied to SOC operations, incident response, and Security+ (SY0-701) preparation.  
 It includes real investigation examples, threat-hunting techniques, log analysis, and core command-line fundamentals.
